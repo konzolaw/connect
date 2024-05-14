@@ -1,0 +1,192 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LENOVO\\source\\repos\\Connect_app\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1F05D4A1-BDE4-42EA-A6EC-CBC6F1C04033}|Connect_app.vbproj|C:\\Users\\LENOVO\\source\\repos\\Connect_app\\followupform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{1F05D4A1-BDE4-42EA-A6EC-CBC6F1C04033}|Connect_app.vbproj|solutionrelative:followupform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F05D4A1-BDE4-42EA-A6EC-CBC6F1C04033}|Connect_app.vbproj|C:\\Users\\LENOVO\\source\\repos\\Connect_app\\my project\\patientsregistry.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{1F05D4A1-BDE4-42EA-A6EC-CBC6F1C04033}|Connect_app.vbproj|solutionrelative:my project\\patientsregistry.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F05D4A1-BDE4-42EA-A6EC-CBC6F1C04033}|Connect_app.vbproj|c:\\users\\lenovo\\source\\repos\\connect_app\\my project\\gotosearch.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{1F05D4A1-BDE4-42EA-A6EC-CBC6F1C04033}|Connect_app.vbproj|solutionrelative:my project\\gotosearch.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F05D4A1-BDE4-42EA-A6EC-CBC6F1C04033}|Connect_app.vbproj|C:\\Users\\LENOVO\\source\\repos\\Connect_app\\my project\\gotosearch.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{1F05D4A1-BDE4-42EA-A6EC-CBC6F1C04033}|Connect_app.vbproj|solutionrelative:my project\\gotosearch.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F05D4A1-BDE4-42EA-A6EC-CBC6F1C04033}|Connect_app.vbproj|C:\\Users\\LENOVO\\source\\repos\\Connect_app\\my project\\signupform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{1F05D4A1-BDE4-42EA-A6EC-CBC6F1C04033}|Connect_app.vbproj|solutionrelative:my project\\signupform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F05D4A1-BDE4-42EA-A6EC-CBC6F1C04033}|Connect_app.vbproj|C:\\Users\\LENOVO\\source\\repos\\Connect_app\\my project\\form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{1F05D4A1-BDE4-42EA-A6EC-CBC6F1C04033}|Connect_app.vbproj|solutionrelative:my project\\form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F05D4A1-BDE4-42EA-A6EC-CBC6F1C04033}|Connect_app.vbproj|C:\\Users\\LENOVO\\source\\repos\\Connect_app\\my project\\refferalform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{1F05D4A1-BDE4-42EA-A6EC-CBC6F1C04033}|Connect_app.vbproj|solutionrelative:my project\\refferalform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F05D4A1-BDE4-42EA-A6EC-CBC6F1C04033}|Connect_app.vbproj|C:\\Users\\LENOVO\\source\\repos\\Connect_app\\my project\\patienttestform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{1F05D4A1-BDE4-42EA-A6EC-CBC6F1C04033}|Connect_app.vbproj|solutionrelative:my project\\patienttestform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F05D4A1-BDE4-42EA-A6EC-CBC6F1C04033}|Connect_app.vbproj|C:\\Users\\LENOVO\\source\\repos\\Connect_app\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{1F05D4A1-BDE4-42EA-A6EC-CBC6F1C04033}|Connect_app.vbproj|solutionrelative:form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 176,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GotoSearch.vb",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\Connect_app\\My Project\\GotoSearch.vb",
+              "RelativeDocumentMoniker": "My Project\\GotoSearch.vb",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\Connect_app\\My Project\\GotoSearch.vb",
+              "RelativeToolTip": "My Project\\GotoSearch.vb",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAhwBsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-13T12:39:59.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PatientsRegistry.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\Connect_app\\My Project\\PatientsRegistry.vb",
+              "RelativeDocumentMoniker": "My Project\\PatientsRegistry.vb",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\Connect_app\\My Project\\PatientsRegistry.vb [Design]",
+              "RelativeToolTip": "My Project\\PatientsRegistry.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-03T04:23:00.188Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GotoSearch.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\Connect_app\\My Project\\GotoSearch.vb",
+              "RelativeDocumentMoniker": "My Project\\GotoSearch.vb",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\Connect_app\\My Project\\GotoSearch.vb [Design]",
+              "RelativeToolTip": "My Project\\GotoSearch.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-03T12:54:23.613Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FollowupForm.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\Connect_app\\FollowupForm.vb",
+              "RelativeDocumentMoniker": "FollowupForm.vb",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\Connect_app\\FollowupForm.vb [Design]",
+              "RelativeToolTip": "FollowupForm.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-04T18:22:41.409Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PatientTestForm.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\Connect_app\\My Project\\PatientTestForm.vb",
+              "RelativeDocumentMoniker": "My Project\\PatientTestForm.vb",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\Connect_app\\My Project\\PatientTestForm.vb [Design]",
+              "RelativeToolTip": "My Project\\PatientTestForm.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-29T18:14:19.099Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RefferalForm.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\Connect_app\\My Project\\RefferalForm.vb",
+              "RelativeDocumentMoniker": "My Project\\RefferalForm.vb",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\Connect_app\\My Project\\RefferalForm.vb [Design]",
+              "RelativeToolTip": "My Project\\RefferalForm.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-03T11:04:30.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form2.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\Connect_app\\My Project\\Form2.vb",
+              "RelativeDocumentMoniker": "My Project\\Form2.vb",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\Connect_app\\My Project\\Form2.vb [Design]",
+              "RelativeToolTip": "My Project\\Form2.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-03T11:51:44.957Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SignUpForm.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\Connect_app\\My Project\\SignUpForm.vb",
+              "RelativeDocumentMoniker": "My Project\\SignUpForm.vb",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\Connect_app\\My Project\\SignUpForm.vb [Design]",
+              "RelativeToolTip": "My Project\\SignUpForm.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-03T21:21:41.099Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\Connect_app\\Form1.vb",
+              "RelativeDocumentMoniker": "Form1.vb",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\Connect_app\\Form1.vb [Design]",
+              "RelativeToolTip": "Form1.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-29T07:57:45.041Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 114,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
